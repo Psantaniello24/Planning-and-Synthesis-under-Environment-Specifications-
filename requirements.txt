@@ -4,3 +4,4 @@ mona
 pydot
 networkx
 buddy
+graphviz
