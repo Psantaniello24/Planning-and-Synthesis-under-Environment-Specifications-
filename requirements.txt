@@ -3,3 +3,4 @@ ltlf2dfa
 mona
 pydot
 networkx
+buddy
