@@ -1,7 +1,6 @@
 # Planning-and-Synthesis-under-Environment-Specifications-
 
-Before showing the particular examples that we implemented, we want to show a general description of the
-implementation of the Algorithm.
+Description of the implementation of the Algorithm:
 
 - Parse Environment and Agent goal formula using SPOT
 
