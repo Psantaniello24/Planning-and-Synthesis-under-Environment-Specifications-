@@ -1,0 +1,5 @@
+#install the ltlf2dfa tool and the SPOT tool
+ltlf2dfa
+mona
+pydot
+networkx
